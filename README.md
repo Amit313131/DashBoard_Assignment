@@ -25,7 +25,7 @@ An intelligent and modular React Dashboard designed for flexibility and ease of 
 
 1. **Clone the repository**
    ```bash
-   
+   git clone https://github.com/Amit313131/DashBoard_Assignment.git
 
 2. **Install dependencies**
    ```bash
@@ -36,4 +36,4 @@ An intelligent and modular React Dashboard designed for flexibility and ease of 
    npm run dev
 
 # Live demo :rocket:
-
+https://dashboardassignment-lemon.vercel.app/
